@@ -4,7 +4,7 @@ This script allows you to return a JSON array of every course offered for the gi
 ## How to Run
 1. Sign in to HokieSpa and navigate to https://apps.es.vt.edu/StudentRegistrationSsb/ssb/classSearch/classSearch <br/>
 
-1. Inspect the page and go to Console (Mac: <kbd>Cmd</kbd> + <kbd>Option</kbd> + <kbd>J</kbd> | Windows: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>)<br/>
+1. Inspect the page and go to Console (Mac: <kbd>Cmd</kbd> + <kbd>Option</kbd> + <kbd>J</kbd> or Windows: <kbd>Ctrl</kbd> + <kbd>Shift</kbd> + <kbd>J</kbd>)<br/>
 
 1. Paste the code from [courses.js](courses.js) into the Console <br/>
 
