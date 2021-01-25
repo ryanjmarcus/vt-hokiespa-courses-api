@@ -1,5 +1,5 @@
 # Virginia Tech HokieSpa Courses Fetch
-This script allows you to return a JSON array of every course offered for the given semester. This is much easier than scraping the Timetable. <br/>
+This script allows you to return a JSON array of every course offered for the given semester. This is much easier than scraping the Timetable by using a backdoor API rather than scraping. <br/>
 
 ## How to Run
 1. Sign in to HokieSpa and navigate to https://apps.es.vt.edu/StudentRegistrationSsb/ssb/classSearch/classSearch <br/>
