@@ -129,8 +129,12 @@ This script allows you to return a JSON array of every course offered for the gi
   }
   ```
   
-  ## What it Looks Like
+  ## Example
+  ### Code Pasted
   ![Example](example.png)
+  
+  ### Results with Copy Button
+  ![Results](results.png)
   
   
   ## Meta Tags
