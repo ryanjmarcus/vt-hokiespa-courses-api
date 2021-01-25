@@ -127,6 +127,9 @@ This script allows you to return a JSON array of every course offered for the gi
   }
   ```
   
+  ## Example
+  
+  
   ## Meta Tags
   `Virginia Tech` `Timetable` `Hokie Spa` `Scraper` `Courses`
 
