@@ -12,6 +12,8 @@ This script allows you to return a JSON array of every course offered for the gi
 
 1. Press <kbd>Enter</kbd> to run <br/>
 
+1. Click the "copy" button that pops up next to the printed JSON array
+
 ## Notes
 * The script should take between 1 - 2 minutes to run.
 * The course JSON object does not include: prerequisites, corequisities, and description.
