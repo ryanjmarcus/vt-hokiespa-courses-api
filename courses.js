@@ -32,5 +32,3 @@ while (offset <= totalCourses - maxSize) {
     allCourses = allCourses.concat(someCourses);
 }
 console.log(JSON.stringify(allCourses))
-
-// Don't worry if an undefined message prints under the JSON
