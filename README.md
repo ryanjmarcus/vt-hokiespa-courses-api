@@ -1,4 +1,4 @@
-# Virginia Tech Hokiespa Scraper
+# Virginia Tech HokieSpa Courses Fetch
 This script allows you to return a JSON array of every course offered for the given semester. This is much easier than scraping the Timetable. <br/>
 
 ## How to Run
